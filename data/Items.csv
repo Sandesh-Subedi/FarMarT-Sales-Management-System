@@ -1,0 +1,15 @@
+14
+IC001,E,Steer Loader,Model X7
+IC002,E,Mowers,Buffaloes 2XE
+IC003,E,Backhoe,Seltos S
+IC004,E,Truck,Peterbilt 359 RC
+IC005,E,Seeder,JPH-6
+IC006,P,Pesticides,gallon,40
+IC007,P,Corn seed,bag,25
+IC008,P,Fertilizer,liter,50
+IC009,P,Sunflower seed,bag,200
+IC010,P,Livestock food,ton,100
+IC011,S,Crop cultivation,350
+IC012,S,Soil analysis,150
+IC013,S,Livestock management,220
+IC014,S,Pest control,250

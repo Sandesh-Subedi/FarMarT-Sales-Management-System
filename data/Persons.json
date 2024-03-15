@@ -1,0 +1,199 @@
+{
+  "P005": {
+    "emailAddress": [
+      "elizabethkim0@yahoo.com",
+      "elizabethkim1@yahoo.com"
+    ],
+    "personCode": "P005",
+    "lastName": "Elizabeth",
+    "firstName": "Kim",
+    "address": {
+      "street": "1313 Cedar Boulevard",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98101",
+      "country": "US"
+    }
+  },
+  "P004": {
+    "emailAddress": [
+      "jamesgreen0@gmail.com",
+      "jamesgreen1@gmail.com",
+      "jamesgreen2@gmail.com"
+    ],
+    "personCode": "P004",
+    "lastName": "James",
+    "firstName": "Green",
+    "address": {
+      "street": "1111 Maple Drive",
+      "city": "Detroit",
+      "state": "MI",
+      "zip": "48201",
+      "country": "US"
+    }
+  },
+  "P007": {
+    "emailAddress": [
+      "averyclark0@gmail.com",
+      "averyclark1@gmail.com"
+    ],
+    "personCode": "P007",
+    "lastName": "Avery",
+    "firstName": "Clark",
+    "address": {
+      "street": "1515 Spruce Avenue",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80202",
+      "country": "US"
+    }
+  },
+  "P006": {
+    "emailAddress": [
+      "noahturner0@outlook.com",
+      "noahturner1@outlook.com"
+    ],
+    "personCode": "P006",
+    "lastName": "Noah",
+    "firstName": "Turner",
+    "address": {
+      "street": "1414 Birch Court",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75001",
+      "country": "US"
+    }
+  },
+  "P001": {
+    "emailAddress": [
+      "charlottebaker0@gmail.com",
+      "charlottebaker1@gmail.com",
+      "charlottebaker2@gmail.com"
+    ],
+    "personCode": "P001",
+    "lastName": "Charlotte",
+    "firstName": "Baker",
+    "address": {
+      "street": "456 Oak Lane",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97201",
+      "country": "US"
+    }
+  },
+  "P012": {
+    "emailAddress": [
+      "harperivera0@outlook.com",
+      "harperivera1@outlook.com"
+    ],
+    "personCode": "P012",
+    "lastName": "Harper",
+    "firstName": "Rivera",
+    "address": {
+      "street": "2020 Oak Street",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85001",
+      "country": "US"
+    }
+  },
+  "P011": {
+    "emailAddress": [
+      "loganyoung1@yahoo.com",
+      "loganyoung2@yahoo.com"
+    ],
+    "personCode": "P011",
+    "lastName": "Logan",
+    "firstName": "Young",
+    "address": {
+      "street": "1919 Ash Avenue",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601",
+      "country": "US loganyoung0@yahoo.com"
+    }
+  },
+  "P003": {
+    "emailAddress": [
+      "emilyhall0@outlook.com",
+      "emilyhall1@outlook.com"
+    ],
+    "personCode": "P003",
+    "lastName": "Emily",
+    "firstName": "Hall",
+    "address": {
+      "street": "1010 Pine Road",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94102",
+      "country": "US"
+    }
+  },
+  "P002": {
+    "emailAddress": [
+      "williammorris0@yahoo.com",
+      "williammorris1@yahoo.com",
+      "williammorris2@yahoo.com"
+    ],
+    "personCode": "P002",
+    "lastName": "William",
+    "firstName": "Morris",
+    "address": {
+      "street": "789 Elm Street",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33101",
+      "country": "US"
+    }
+  },
+  "P010": {
+    "emailAddress": [
+      "abigailmitchell0@gmail.com",
+      "abigailmitchell1@gmail.com",
+      "abigailmitchell2@gmail.com"
+    ],
+    "personCode": "P010",
+    "lastName": "Abigail",
+    "firstName": "Mitchell",
+    "address": {
+      "street": "1818 Chestnut Drive",
+      "city": "New Orleans",
+      "state": "LA",
+      "zip": "70112",
+      "country": "US"
+    }
+  },
+  "P009": {
+    "emailAddress": [
+      "masonharris0@outlook.com",
+      "masonharris1@outlook.com"
+    ],
+    "personCode": "P009",
+    "lastName": "Mason",
+    "firstName": "Harris",
+    "address": {
+      "street": "1717 Poplar Street",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30303",
+      "country": "US"
+    }
+  },
+  "P008": {
+    "emailAddress": [
+      "chloehernandez0@yahoo.com",
+      "chloehernandez1@yahoo.com",
+      "chloehernandez2@yahoo.com"
+    ],
+    "personCode": "P008",
+    "lastName": "Chloe",
+    "firstName": "Hernandez",
+    "address": {
+      "street": "1616 Walnut Place",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02101",
+      "country": "US"
+    }
+  }
+}
